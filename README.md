@@ -1,21 +1,23 @@
-# Entrepreneurship II - Product-Market Fit, Scaling, and Investment
+# Entrepreneurship II - Product-Market Fit, Growth, Scaling, and Investment
 
 ## Course Overview
 
 What does it take to move from a validated startup idea, and initial growth, to being a company prepared to raise money and scale?
 
-In Entrepreneurship I we attempted to prove to ourselves that we had **Product-Market Fit**. Now we will try to convince others that we have it. Most of what we will do in this course will be expressed in the form of a **Investor Pitch Deck** that you will create.
+In Entrepreneurship I we attempted to prove to ourselves our startup was not doomed. Now we will try to prove we have **Product-Market-Fit** convince others that we have it. Most of what we will do in this course will be expressed in the form of a **Investor Pitch Deck** that you will create.
 
 **This is not an engineering course.** You will not need to code more than some HTML/CSS, and it is better if you don't code at all and rely on off-the-shelf products like Survey Monkey and Google Drive to run your experiments.
+
+Getting employees, employee issues, cash flow (running out of money)
+Debate between bootstrapping (Chicago) vs raising (San Francisco)
 
 ## Competencies & Objectives
 
 * Craft a **Value Proposition** (aka your "Value Prop")
-* Make wireframes/screenshots and conduct user testing
 * Use the Rule of 40 to determine **Product-Market Fit**
+* Define disruption - PEST & 5x Rule
 * Differentiate between and conduct sales and a marketing strategies
 * Plan a product launch
-* Position a product relative to direct and indirect competitors
 * Estimate the Total Appreciable Market of your product
 * Know when, how, and why to incorporate a legal business entity
 * Work with cofounders
@@ -25,7 +27,7 @@ In Entrepreneurship I we attempted to prove to ourselves that we had **Product-M
 
 ## Deliverables
 
-* Startup Pitch Deck
+* A Startup Pitch Deck
 * 5 min Pitch Video
 
 ## Lessons
