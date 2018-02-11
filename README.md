@@ -32,12 +32,27 @@ Debate between bootstrapping (Chicago) vs raising (San Francisco)
 
 ## Lessons
 
+Analysis of investor decks
+Analysis of pitch videos
+
+How/When to raise money - when you have product market fit and 30% month-over-month growth
+Product-Market Fit = Rule of 40
+30% month-over-month growth
+Working with Cofounders
+- operators agreements
+- vesting agreements
+Hiring People
+- Employees vs. Contractors & 1099's vs. VA's.
+Legal stuff
+- Defacto partnership, LLC, flow through taxation, when to get a bank account
+Marketing Funnel - digging into metrics
+- Channel conversion
+- NPS
+Pitch Deck presentations
+
+
 1. Y Combinator, Pitch Decks, & How this Class will Work - Ideation
-1. Market Research: Competitors
-1. Market Research: Total Appreciable Market Value
-1. User Testing
 1. Sales and Marketing
-1. Value Proposition
 1. Rule of 40
 1. When, How, and Why to Incorporate
 1. Cofounders, Investors, and Equity
@@ -50,7 +65,8 @@ Debate between bootstrapping (Chicago) vs raising (San Francisco)
 In order to pass this course, you must
 
 1. Have fewer than 2 unexcused absences.
-1. Completed a passing startup pitch deck and recorded pitch video.
+1. Completed a passing startup pitch deck and recorded pitch video
+
 
 ## Ten Commandments of User Testing
 1. Thou shalt plan and do user testing often.
